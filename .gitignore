@@ -1,0 +1,44 @@
+# Ignore node_modules directory if you're using npm
+node_modules/
+
+# Ignore virtual environment directory if you're using Python's virtualenv or pipenv
+venv/
+env/
+
+# Ignore compiled code and build artifacts
+dist/
+build/
+*.class
+*.jar
+*.war
+*.pyc
+*.o
+
+# Ignore editor/IDE specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.sln
+*.user
+.DS_Store
+
+# Ignore temporary files and logs
+*.log
+*.tmp
+*.swp
+*.bak
+*.cache
+
+# Ignore sensitive information
+.env
+
+# Ignore dependencies installed via pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore image files that might be generated during development
+assets/
+
+# Ignore any local settings files
+settings.json
