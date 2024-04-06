@@ -37,8 +37,7 @@ build/
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Ignore image files that might be generated during development
-assets/
+
 
 # Ignore any local settings files
 settings.json
