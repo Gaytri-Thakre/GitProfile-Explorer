@@ -10,6 +10,10 @@
     --btn: #0079ff;
     --btn-hover: #60abff;
   }
+  :root {
+    --transition-duration: 1s;
+    transition: background-color var(--transition-duration), color var(--transition-duration);
+  }
   
   * {
     margin: 0;
