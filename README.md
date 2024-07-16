@@ -6,10 +6,6 @@ Search GitHub users by username
 Display user profile information including avatar, name, bio, repositories, followers, following, and more
 Toggle between light and dark mode
 Save user's dark mode preference in localStorage
-Demo
-You can see a live demo of the project here.
-
-Screenshots
 
 
 Technologies Used
